@@ -1,7 +1,7 @@
 # [os212](https://rickyantowm.github.io/os212/) 
 
 [Log](https://raw.githubusercontent.com/rickyantowm/os212/main/TXT/mylog.txt) | [Github](https://github.com/rickyantowm)
-------------------------------------------------------------------------------|-----------------------------------------
+
 
 
 
