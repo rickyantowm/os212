@@ -11,5 +11,5 @@ ZCZC W01 300 L11 Assignment #01
 ZCZC W01 180 L08 Asdos: Tutor
 ZCZC W01 5 L61 Reinstall/Restore/Backup Virtual Box
 ZCZC W01 5 L62 Reinstall/Restore/Backup Virtual Debian Guest
-
+ZCZC W01 30 L24 Bash, Regex, SED, AWK
 
