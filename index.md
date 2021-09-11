@@ -6,3 +6,5 @@
 # hello :D 
 
 ## this is my public repository for os212
+
+don't forget to check out my [LINKS](LINKS/)!!!
