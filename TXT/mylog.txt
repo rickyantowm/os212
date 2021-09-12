@@ -22,6 +22,7 @@ ZCZC W01 60 L15 Assignment #05
 ZCZC W01 60 L16 Assignment #06
 ZCZC W01 30 L17 Assignment #07
 ZCZC W01 100 L18 Assignment #08
+ZCZC W01 70 L19 Assignment #09
 ZCZC W01 180 L08 Asdos: Tutor
 ZCZC W01 5 L61 Reinstall/Restore/Backup Virtual Box
 ZCZC W01 5 L62 Reinstall/Restore/Backup Virtual Debian Guest
