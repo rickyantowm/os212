@@ -13,7 +13,8 @@ this is my public repository for os212
 
 don't forget to check out my [LINKS](LINKS/)!!
 
-#
+<br>
+<br>
 ![SIZE](https://img.shields.io/github/repo-size/rickyantowm/os212?style=plastic)
-![a](https://img.shields.io/github/commit-activity/w/rickyantowm/os212)
+![a](https://img.shields.io/github/commit-activity/w/rickyantowm/os212?style=plastic)
 ![lastcommit](https://img.shields.io/github/last-commit/rickyantowm/os212?style=plastic)

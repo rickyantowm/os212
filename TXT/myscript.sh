@@ -1,6 +1,6 @@
 #!/bin/bash
-# REV00 Thu 16 Sep 2021 23:26:00 WIB
-# START Thu 16 Sep 2021 23:26:00 WIB
+# REV00 Sun 12 Sep 2021 03:10:00 WIB
+# START Sun 12 Sep 2021 03:10:00 WIB
 
 FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
