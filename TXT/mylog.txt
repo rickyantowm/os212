@@ -30,9 +30,19 @@ ZCZC W01 120 L70 Studying for other courses.
 ZCZC W01 250 L80 Waching: Money Heist Season 5
 ZCZC W01 200 L80 Waching: One Piece
 ZCZC W01 10 L82 Reading One Piece chapter 1025
-ZCZC W02 180 L09 Assignment in General
 ZCZC W02 20 L22 Quiz: OS
+ZCZC W02 45 L12 Trying some C demos
+ZCZC W02 10 L14 Generate GnuPG Key
+ZCZC W02 10 L15 List of all GPG keys
+ZCZC W02 10 L16 Importing public key
+ZCZC W02 10 L17 Signed public OS key
+ZCZC W02 10 L18 Exporting public key
+ZCZC W02 60 L19 Update mylink.md
+ZCZC W02 10 L20 Reviewing my neighbors top list
+ZCZC W02 15 L09 Wrote a simple script
+ZCZC W02 30 L09 Update mylog.txt
+ZCZC W02 10 L09 Generate SHA256SUM and SHA256SUM.asc
+ZCZC W02 60 L11 Skim read OSC10 chapter 16 + chapter 17
+ZCZC W02 150 L13 Watched crybersecurity introduction 
 ZCZC W02 60 L64 Helping OS related problem to a friend
-ZCZC W02 5 L27 GnuPG, key-gen, encrypt/decrypt
-ZCZC W02 60 L06 References/Books/Documents/GSGS related
-
+ZCZC W02 60 L06 GSGS about SHA-256, cryptography, and C language
