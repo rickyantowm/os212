@@ -46,3 +46,5 @@ ZCZC W02 60 L11 Skim read OSC10 chapter 16 + chapter 17
 ZCZC W02 150 L13 Watched crybersecurity introduction 
 ZCZC W02 60 L64 Helping OS related problem to a friend
 ZCZC W02 60 L06 GSGS about SHA-256, cryptography, and C language
+ZCZC W02 30 L80 Waching: LEMMiNO
+
