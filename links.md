@@ -45,3 +45,7 @@ permalink : /LINKS/
 * [Linux FHS](https://www.geeksforgeeks.org/linux-file-hierarchy-structure/) <br> A complete and neat guide to linux file hierarchy structure. In FHS, all files and directories appear under the root directory /. The funny thing is in Linux system, everything is a file and if it is not a file, it is a process.
 
 * [OS Directory Structure](https://tutorialspoint.dev/computer-science/operating-systems/operating-system-structures-of-directory) <br> This website showcases a really good visual representation of a directory structure. There are 5 types of directory structure.
+
+## Week 04
+
+* [Pointers in C](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) <br> This website give a good about pointers in C. Pointer is a variable whose value is the address of another variable.

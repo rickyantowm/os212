@@ -49,13 +49,19 @@ ZCZC W02 60 L06 GSGS about SHA-256, cryptography, and C language
 ZCZC W02 30 L80 Waching: LEMMiNO
 ZCZC W03 40 L22 Quiz: OS
 ZCZC W03 60 L12 Assignment #02 (Trying demos)
-ZCZC W03 5  L14 Assignment #04 (.bash_aliases is up-to-date)
+ZCZC W03 5 L14 Assignment #04 (.bash_aliases is up-to-date)
 ZCZC W03 30 L15 Assignment #05 (Creating a new Virtual Disk)
 ZCZC W03 45 L16 Assignment #06 (Update links.md)
-ZCZC W03 5  L17 Assignment #07 (Update myrank.txt)
-ZCZC W03 5  L18 Assignment #08 (Update mylog.txt)
+ZCZC W03 5 L17 Assignment #07 (Update myrank.txt)
+ZCZC W03 5 L18 Assignment #08 (Update mylog.txt)
 ZCZC W03 10 L19 Assignment #09
 ZCZC W03 600 L99 SDA LAB: Dynamic Programming
 ZCZC W03 60 L13 Assignment #03
 ZCZC W03 100 L11 Assignment #01 
-ZCZC W03 100 L64 Helping OS related problem to a friend.
+ZCZC W03 100 L64 Helping OS related problem to a friend
+ZCZC W04 5 L14 Assignment #04
+ZCZC W04 10 L15 Assignment #05
+ZCZC W04 20 L16 Assignment #06
+ZCZC W04 10 L17 Assignment #07
+ZCZC W04 15 L18 Assignment #08
+ZCZC W04 5 L19 Assignment #09.
