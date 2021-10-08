@@ -68,4 +68,16 @@ ZCZC W04 5 L19 Assignment #09
 ZCZC W04 100 L13 Assignment #03 
 ZCZC W04 70 L12 Assignment #02
 ZCZC W04 100 L11 Assignment #01
-ZCZC W04 25 L22 OS Quiz  
+ZCZC W04 25 L22 OS Quiz 
+ZCZC W05 45 L14 Assignment #04
+ZCZC W05 30 L15 Assignment #05
+ZCZC W05 30 L17 Assignment #07
+ZCZC W05 15 L18 Assignment #08
+ZCZC W05 20 L19 Assignment #09
+ZCZC W05 40 L22 OS Quiz
+ZCZC W05 100 L11 Assignment #1
+ZCZC W05 60 L12 Assignment #2
+ZCZC W05 45 L13 Assignment #3 
+ZCZC W05 50 L06 GSGS About VM
+ZCZC W05 120 L99 SDA LAB
+ZCZC W05 60 L28 Trying SSH for Database Course
