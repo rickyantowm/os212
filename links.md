@@ -31,7 +31,7 @@ permalink : /LINKS/
 ## Week 02
  
 * [SHA-256 Algorithm](https://www.n-able.com/blog/sha-256-encryption) <br> What is SHA-256? SHA-256 is a patented cryptographic hash function that outputs a value that is 256 bits long. SHA-256 is one of the most secure hashing functions on the market.
-
+
 * [How SHA-256 Works](https://qvault.io/cryptography/how-sha-2-works-step-by-step-sha-256/) <br> I was wondering how can my txt files consisting of strings can be turned into a scramble of alphabets and numbers, such as ABH28523KSB. That was the work of SHA-256 algorithm. This website gives a really clear step by step process how SHA-256 works, it will show you how it can turns "hello world' into an unintelligible text. 
 
 * [C For Beginners](https://www.freecodecamp.org/news/the-c-beginners-handbook/) <br> A really nice and easy to understand introduction to C programming. This website will give you a well-rounded overview of the language.
@@ -48,4 +48,10 @@ permalink : /LINKS/
 
 ## Week 04
 
-* [Pointers in C](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) <br> This website give a good about pointers in C. Pointer is a variable whose value is the address of another variable.
+* [Pointers in C](https://www.tutorialspoint.com/cprogramming/c_pointers.htm) <br> This website gives a good about pointers in C. Pointer is a variable whose value is the address of another variable.
+
+## Week 05
+
+*[VM in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br> Virtual memory is a feature of an operating system that enables a computer to use the secondary monitor as its main memory. This process allows for RAM to be freed up so that a computer can complete the task.
+
+*[Virtual vs Physical Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/) <br> This website explains the difference between physical and virtual memory. Physical memory, the actual RAM that stores the currently executing programs. In contrast, virtual memory is used when the computer lacks the RAM to execute a program, the virtual memory transfers data from the RAM to a paging file, so it can frees up space in RAM.
