@@ -52,6 +52,6 @@ permalink : /LINKS/
 
 ## Week 05
 
-*[VM in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br> Virtual memory is a feature of an operating system that enables a computer to use the secondary monitor as its main memory. This process allows for RAM to be freed up so that a computer can complete the task.
+* [VM in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/) <br> Virtual memory is a feature of an operating system that enables a computer to use the secondary monitor as its main memory. This process allows for RAM to be freed up so that a computer can complete the task.
 
-*[Virtual vs Physical Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/) <br> This website explains the difference between physical and virtual memory. Physical memory, the actual RAM that stores the currently executing programs. In contrast, virtual memory is used when the computer lacks the RAM to execute a program, the virtual memory transfers data from the RAM to a paging file, so it can frees up space in RAM.
+* [Virtual vs Physical Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/) <br> This website explains the difference between physical and virtual memory. Physical memory, the actual RAM that stores the currently executing programs. In contrast, virtual memory is used when the computer lacks the RAM to execute a program, the virtual memory transfers data from the RAM to a paging file, so it can frees up space in RAM.
