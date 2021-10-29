@@ -81,3 +81,12 @@ ZCZC W05 45 L13 Assignment #3
 ZCZC W05 50 L06 GSGS About VM
 ZCZC W05 120 L99 SDA LAB
 ZCZC W05 60 L28 Trying SSH for Database Course
+ZCZC W06 80 L11 Assignment #01
+ZCZC W06 80 L12 Assignment #02
+ZCZC W06 45 L13 Assignment #03
+ZCZC W06 30 L14 Assignment #04
+ZCZC W06 20 L15 Assignment #05
+ZCZC W06 10 L17 Assignment #07
+ZCZC W06 10 L18 Assignment #08
+ZCZC W06 5 L19 Assignment #09
+ZCZC W06 180 L84 A long nap
