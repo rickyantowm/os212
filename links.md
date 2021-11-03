@@ -59,3 +59,12 @@ permalink : /LINKS/
 ## Week 06
 
 * [Concurrency in OS](https://www.javatpoint.com/concurrency-in-operating-system) <br> This website gives a clear explanation of concurrency and its problems. Concurrency also have some disadvantages, such as it is necessary to use extra techniques to coordinate several applications
+
+## Week 07
+
+* [Difference Between Deadlock and Starvation](https://pediaa.com/what-is-the-difference-between-deadlock-and-starvation/) <br> A really nice website about Deadlock and Starvation and its difference. The website gives a table that really help to understand the difference. The main difference is when it's occured.
+
+* [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization) <br> This website provides a thorough explanation about Synchronization in OS. Process Synchronization was introduced to handle problems that arose while multiple process executions. Process is categorized into two types (1) Independent Process (2) Cooperative Process
+
+* [Banker's Algorithm](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/#:~:text=The%20banker%27s%20algorithm%20is%20a,should%20be%20allowed%20to%20continue) <br> You can learn about Banker's Algorithm in this website, it also provides an example code. Algorithm's is used to avoid deadlock. Banker’s algorithm is named so because it is used in banking system.
+
