@@ -68,3 +68,8 @@ permalink : /LINKS/
 
 * [Banker's Algorithm](https://www.geeksforgeeks.org/bankers-algorithm-in-operating-system-2/#:~:text=The%20banker%27s%20algorithm%20is%20a,should%20be%20allowed%20to%20continue) <br> You can learn about Banker's Algorithm in this website, it also provides an example code. Algorithm's is used to avoid deadlock. Banker’s algorithm is named so because it is used in banking system.
 
+## Week 08
+
+* [Linux From Scratch] (https://www.linuxfromscratch.org/lfs/view/11.0/) <br> The official website for linux from scratch. The website gives a clear step by step on how to install it.
+
+* [LFS Guide] (https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE) <br> A youtube playlist about how to do LFS. Although the video is specifically about installing on the iMac hardware, it will be the same regardless of the hardware it's installed on.
