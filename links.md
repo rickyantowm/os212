@@ -70,6 +70,6 @@ permalink : /LINKS/
 
 ## Week 08
 
-* [Linux From Scratch] (https://www.linuxfromscratch.org/lfs/view/11.0/) <br> The official website for linux from scratch. The website gives a clear step by step on how to install it.
+* [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/) <br> The official website for linux from scratch. The website gives a clear step by step on how to install it.
 
-* [LFS Guide] (https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE) <br> A youtube playlist about how to do LFS. Although the video is specifically about installing on the iMac hardware, it will be the same regardless of the hardware it's installed on.
+* [LFS Guide](https://www.youtube.com/playlist?list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE) <br> A youtube playlist about how to do LFS. Although the video is specifically about installing on the iMac hardware, it will be the same regardless of the hardware it's installed on.
